@@ -1,0 +1,34 @@
+//request
+
+{
+    "email":"mohankaushik112005@gmail.com",
+    "name":"Mohan Kaushik Onumu",
+    "mobileNo":"8247580803",
+    "githubUsername":"Vittu005",
+    "rollNo":"22331A05C2",
+    "accessCode":"mUNQHe"
+}
+//respnse
+
+{
+    "email": "mohankaushik112005@gmail.com",
+    "name": "mohan kaushik onumu",
+    "rollNo": "22331a05c2",
+    "accessCode": "mUNQHe",
+    "clientID": "05173ecb-eef2-45c4-968b-9d3187edafef",
+    "clientSecret": "EzDCXxKsQKGKtJkk"
+}
+
+//token
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJtb2hhbmthdXNoaWsxMTIwMDVAZ21haWwuY29tIiwiZXhwIjoxNzUxNjEwNDY4LCJpYXQiOjE3NTE2MDk1NjgsImlzcyI6IkFmZm9yZCBNZWRpY2FsIFRlY2hub2xvZ2llcyBQcml2YXRlIExpbWl0ZWQiLCJqdGkiOiJmZmEzM2EzOS0zOGE0LTQwMTktODE4OS0yYTgzMWE5NTlmYjYiLCJsb2NhbGUiOiJlbi1JTiIsIm5hbWUiOiJtb2hhbiBrYXVzaGlrIG9udW11Iiwic3ViIjoiMDUxNzNlY2ItZWVmMi00NWM0LTk2OGItOWQzMTg3ZWRhZmVmIn0sImVtYWlsIjoibW9oYW5rYXVzaGlrMTEyMDA1QGdtYWlsLmNvbSIsIm5hbWUiOiJtb2hhbiBrYXVzaGlrIG9udW11Iiwicm9sbE5vIjoiMjIzMzFhMDVjMiIsImFjY2Vzc0NvZGUiOiJtVU5RSGUiLCJjbGllbnRJRCI6IjA1MTczZWNiLWVlZjItNDVjNC05NjhiLTlkMzE4N2VkYWZlZiIsImNsaWVudFNlY3JldCI6IkV6RENYeEtzUUtHS3RKa2sifQ.NG2K1tz8Q-t3Ww_eOLgM6nei5t6f-I83rXCOityUBaM",
+    "expires_in": 1751610468
+    
+    //login
+    
+{
+    "logID": "c0ce3c42-393b-4e14-b064-d1eecc6f6f04",
+    "message": "log created successfully"
+}
